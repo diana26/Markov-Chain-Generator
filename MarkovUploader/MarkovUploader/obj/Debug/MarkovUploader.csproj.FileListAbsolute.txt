@@ -1,0 +1,10 @@
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\bin\Debug\MarkovUploader.exe.config
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\bin\Debug\MarkovUploader.exe
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\bin\Debug\MarkovUploader.pdb
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.csprojAssemblyReference.cache
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.Form1.resources
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.Properties.Resources.resources
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.csproj.GenerateResource.cache
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.csproj.CoreCompileInputs.cache
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.exe
+C:\Users\Diana Contreras\source\repos\MarkovUploader\MarkovUploader\obj\Debug\MarkovUploader.pdb

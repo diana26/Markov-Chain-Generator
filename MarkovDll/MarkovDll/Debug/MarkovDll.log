@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+c:\users\diana contreras\source\repos\markovdll\markovdll\stdafx.cpp(26): warning C4102: 'std': etiqueta sin referencia
+  MarkovDll.cpp
+  dllmain.cpp
+  Generando código...
+  MarkovDll.vcxproj -> C:\Users\Diana Contreras\source\repos\MarkovDll\Debug\MarkovDll.dll
